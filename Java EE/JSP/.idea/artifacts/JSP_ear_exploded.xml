@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="JSP:ear exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/JSP_ear_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="JSP/javaeeApplication/javaEEApplication" />
+      <element id="directory" name="web.war">
+        <element id="artifact" artifact-name="JSP:war exploded" />
+      </element>
+    </root>
+  </artifact>
+</component>

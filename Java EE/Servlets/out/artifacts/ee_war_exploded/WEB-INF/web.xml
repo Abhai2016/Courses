@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd"
+         version="4.0">
+
+<!-- Since version 3.0 which now is 4.0 we can use annotation @WebServlet in class instead of this xml
+ <servlet>
+        <servlet-name>com.abhai.servlets.helloWorld.HelloServlet</servlet-name>
+        <servlet-class>com.abhai.servlets.helloWorld.HelloServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>com.abhai.servlets.helloWorld.HelloServlet</servlet-name>
+        <url-pattern>/hello</url-pattern>
+    </servlet-mapping>
+-->
+
+</web-app>
